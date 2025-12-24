@@ -5,14 +5,14 @@ module.exports = {
     sendWelcomeMessage: true,
     blackList: [],
     whiteList: [],
-    ownerNumber: '94743082029',
+    ownerNumber: '94741472009',
     userTimezone: 'Asia/Colombo',
-    mongoUrl: 'mongodb+srv://hello:Mother@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName: 'hello', // Replace with your database name
+    mongoUrl: 'mongodb+srv://Public:Public@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    dbName: 'Public', // Replace with your database name
     botDetails: {
-        botName: 'FERIX ID OFC',
-        botAge: '20',
-        botLocation: 'PADUKKA',
+        botName: 'ꪶ ɪⴕYumal📍',
+        botAge: '16',
+        botLocation: 'mathara',
         fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
     },
     relaxWishes: [
